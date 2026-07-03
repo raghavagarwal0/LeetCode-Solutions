@@ -78,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1550-three-consecutive-odds](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -78,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -93,4 +95,8 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

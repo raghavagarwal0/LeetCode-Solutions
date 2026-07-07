@@ -32,6 +32,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -85,6 +86,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1550-three-consecutive-odds](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

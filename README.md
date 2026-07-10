@@ -32,12 +32,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |

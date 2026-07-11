@@ -8,6 +8,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
@@ -93,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1550-three-consecutive-odds](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -116,11 +120,13 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |

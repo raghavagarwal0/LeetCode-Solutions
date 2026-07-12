@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +112,7 @@
 | [0056-merge-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |

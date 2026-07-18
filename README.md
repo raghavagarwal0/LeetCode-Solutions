@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -54,6 +55,7 @@
 | [0344-reverse-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -124,6 +126,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -179,6 +182,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Prefix Sum
 |  |
 | ------- |

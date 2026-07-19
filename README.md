@@ -74,6 +74,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,4 +190,8 @@
 | [0525-contiguous-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

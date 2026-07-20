@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -72,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |

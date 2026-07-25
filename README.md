@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |

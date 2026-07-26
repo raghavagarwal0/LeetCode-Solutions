@@ -78,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -136,6 +137,7 @@
 | [0525-contiguous-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -156,6 +158,7 @@
 | [0229-majority-element-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |

@@ -13,11 +13,11 @@ class Solution {
             {
                 low++;
             }
-            else if(!isVowel(arr[high]))
+            if(!isVowel(arr[high]))
             {
                 high--;
             }
-            else
+            if(isVowel(arr[high]) && isVowel(arr[low]))
             {
                 char ch = arr[low];
                 arr[low] = arr[high];

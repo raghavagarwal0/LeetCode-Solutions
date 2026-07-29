@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -74,6 +75,7 @@
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -105,6 +107,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |

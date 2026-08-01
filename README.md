@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

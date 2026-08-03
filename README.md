@@ -48,6 +48,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -175,6 +176,7 @@
 | [1550-three-consecutive-odds](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |

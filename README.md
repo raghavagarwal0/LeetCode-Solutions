@@ -166,6 +166,7 @@
 | [0605-can-place-flowers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -248,6 +249,7 @@
 | [0238-product-of-array-except-self](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory

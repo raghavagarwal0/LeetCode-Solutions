@@ -45,6 +45,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -172,6 +173,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

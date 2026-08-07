@@ -117,6 +117,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |

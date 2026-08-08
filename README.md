@@ -76,6 +76,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 | [0605-can-place-flowers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |

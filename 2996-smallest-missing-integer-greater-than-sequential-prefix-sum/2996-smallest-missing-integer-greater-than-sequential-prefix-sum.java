@@ -21,12 +21,9 @@ class Solution {
             }
              sum +=nums[i];
         }
-        sum--;
-    Boolean flag = false;
-        while(flag!=true)
+        while(!ans(sum,nums))
         {
             sum +=1;
-            flag = ans(sum,nums);
         }
         return sum;
         

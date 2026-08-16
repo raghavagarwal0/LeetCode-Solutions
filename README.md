@@ -186,6 +186,7 @@
 | [0229-majority-element-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
@@ -274,6 +276,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer

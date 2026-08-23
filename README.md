@@ -84,6 +84,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -122,6 +123,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -262,6 +264,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

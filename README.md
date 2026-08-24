@@ -36,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +143,7 @@
 | [0002-add-two-numbers](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -152,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |

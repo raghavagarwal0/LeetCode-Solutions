@@ -156,6 +156,7 @@
 | [0015-3sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -196,6 +197,7 @@
 | [0056-merge-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -247,6 +249,7 @@
 | [0015-3sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -373,4 +376,12 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

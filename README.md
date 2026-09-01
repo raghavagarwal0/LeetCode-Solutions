@@ -113,6 +113,7 @@
 | [0053-maximum-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -204,6 +205,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |

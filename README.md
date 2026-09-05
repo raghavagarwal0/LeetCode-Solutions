@@ -252,6 +252,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0724-find-pivot-index](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
 |  |
 | ------- |

@@ -205,6 +205,7 @@
 | [0054-spiral-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0735-asteroid-collision) |

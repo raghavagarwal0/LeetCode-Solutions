@@ -118,6 +118,7 @@
 | [0152-maximum-product-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -238,6 +239,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |

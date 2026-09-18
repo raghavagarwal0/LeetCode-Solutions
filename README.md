@@ -188,6 +188,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,6 +203,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0015-3sum) |
@@ -346,6 +348,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting

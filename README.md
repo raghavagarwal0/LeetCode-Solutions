@@ -89,6 +89,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -184,6 +185,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
@@ -329,6 +331,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |

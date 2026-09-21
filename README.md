@@ -324,6 +324,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -434,4 +435,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

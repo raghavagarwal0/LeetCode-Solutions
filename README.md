@@ -72,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0097-interleaving-string) |
@@ -464,6 +466,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

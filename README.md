@@ -89,6 +89,7 @@
 | [0520-detect-capital](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -356,6 +357,7 @@
 | [0735-asteroid-collision](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -478,6 +480,7 @@
 | [0022-generate-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghavagarwal0/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking

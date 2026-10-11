@@ -4,8 +4,8 @@ class Solution {
      int n = nums.length;
      for(int i=0;i<n;i++)
      {
-        int j = i+1;
-        if(n%j==0)
+        
+        if(n%(i+1)==0)
         {
             nums[i] = nums[i]*nums[i];
             ans +=nums[i];
